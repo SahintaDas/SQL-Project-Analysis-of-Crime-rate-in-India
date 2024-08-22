@@ -1,2 +1,2 @@
 # SQL-Project-Analysis-of-Crime-rate-in-India
-The aim of the project is to find out the Crime rate trend in India. This project has identified states with highest and lowest crime rate, change in crime growth rate year over year, states which are safe for women, states which are safe for citizen
+The aim of the project is to find out the Crime rate trend in India. This project has identified states with highest and lowest crime rate, change in crime growth rate year over year, states which are safe for women, states which are safe for citizen.  SQL function such as Select, Sum, Avg, Min, Max, Group By, Order By, Nested Function, Windows Function, and Sub queries has been used to analyze the crime rate. 
